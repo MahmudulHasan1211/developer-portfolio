@@ -1,0 +1,151 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+nav{
+    display: flex;
+    justify-content:space-around;
+    margin: 50px 80px;
+}
+.namee{
+    font-weight: 700px;
+    font-size: 45px;
+}
+#mah{
+    color: #fd6e0a;
+}
+ul{
+    display: flex;
+    align-items: center;
+    
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+    
+}
+nav ul a{
+    text-decoration: none;
+}
+.sharedbtn{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+.banner{
+    display: flex;
+}
+.banner-content{
+    padding-left: 210px;
+    max-width: 580px;
+}
+.con{
+    background-color: white;
+    color: #FD6E0A;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+.address{
+    font-size: 45px;
+    color:#474747;
+}
+.name{
+    font-size: 45px;
+}
+.banner-pic{
+    height: 680px;
+    width: 600px;
+}
+header{
+    background-image: url(images/developer.png), url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+}
+.secondary-bg{
+   background-color: #FFF8F3;
+}
+.about{
+    height: 300px;
+    width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:  #FFF8F3 ;
+    padding: 90px;
+    margin-top: 60px;
+}
+.flexible{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sec2{
+    text-align: center;
+    margin: 0 auto;
+    height: 100px;
+    width: 1040px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.new{
+    margin: 0 auto;
+    height: 100px;
+    width: 1140px;
+}
+.skills-container{
+    display: flex;
+    gap:20px;
+    height: 300px;
+    padding: 25px;
+    text-align: justify;
+    
+}
+.skill{
+    border: 1px solid wheat;
+    padding: 25px;
+    box-shadow: 1px 1px 3px;
+    
+}
+#ali{
+    text-align: center;
+}
+.summmary{
+    display: flex;
+    justify-content: space-around;
+}
+.sharedbtnn{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    margin: 20px 475px;
+}
+.foot{
+    display: flex;
+    background-color: #FFF8F3 ;
+}
+.mango{
+    width: 599px;
+    background-color:  #FFF8F3 ;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+
+.orangee{
+    padding-left: 30px;
+    padding-top: 40px;
+}
+.ppp{
+        background-color: #FD6E0A;
+        color: white;
+        padding: 18px 35px;
+        
+}
